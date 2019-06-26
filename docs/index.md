@@ -1,6 +1,6 @@
-## mbed Client guide
+# mbed Client guide
 
-### About this document
+## About this document
 
 This document introduces the mbed Client and the use of its API. The document is divided into the following chapters:
 
